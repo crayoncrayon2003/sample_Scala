@@ -1,0 +1,2 @@
+scalac VerAndConst.scala
+scala VerAndConst

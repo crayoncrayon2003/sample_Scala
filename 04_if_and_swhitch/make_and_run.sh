@@ -1,0 +1,2 @@
+scalac IfAndSwitch.scala
+scala IfAndSwitch

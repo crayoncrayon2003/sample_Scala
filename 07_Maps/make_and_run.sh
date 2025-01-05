@@ -1,0 +1,2 @@
+scalac MapExample.scala
+scala MapExample

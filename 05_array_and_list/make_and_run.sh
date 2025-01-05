@@ -1,0 +1,2 @@
+scalac ArrayAndList.scala
+scala ArrayAndList

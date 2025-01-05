@@ -1,0 +1,2 @@
+scalac FunctionExample.scala
+scala FunctionExample

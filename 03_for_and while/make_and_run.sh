@@ -1,0 +1,2 @@
+scalac ForAndWhile.scala
+scala ForAndWhile
