@@ -25,7 +25,7 @@ mvn archetype:generate \
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <scala.version>2.13.6</scala.version>
+        <scala.version>2.12.18</scala.version>
     </properties>
 
     <dependencies>
